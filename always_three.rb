@@ -5,4 +5,4 @@ number_final *= 2
 number_final -= 4
 number_final /= 2
 number_final -= number_one
-puts "The final number is #{number_final}"
+puts "The final number is always #{number_final}"
